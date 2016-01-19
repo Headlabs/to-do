@@ -30,9 +30,9 @@ The things in __bold__ are the things that we need to account for in our "Startu
 - [ ] Separate out the costs that will be incurred before launching the company from those that will be incurred on an ongoing basis after the company is launched. (Before Launch vs. Ongoing)
 
 ### Step 8
-Complete a __revenue forecast__. Build __financial models__ with assumptions about unit sales volume and price, and then generate a s__preadsheet with forecast revenues, month by month for the first three years__. Total up the expenses you forecast for each of these months, and calculate how long it will take for the company to reach breakeven cash flow. Total the cash deficit for these months.
+- [ ] Complete a __revenue forecast__. Build __financial models__ with assumptions about unit sales volume and price, and then generate a s__preadsheet with forecast revenues, month by month for the first three years__. Total up the expenses you forecast for each of these months, and calculate how long it will take for the company to reach breakeven cash flow. Total the cash deficit for these months.
 
 ### Step 9
-Compute total startup capital. Add up capital needed prior to launch and the capital required to fund the cash deficit. This is your total startup capital.
+- [ ] Compute total startup capital. Add up capital needed prior to launch and the capital required to fund the cash deficit. This is your total startup capital.
 
 
