@@ -23,3 +23,5 @@ Here's a list of stuff we have to do.
 - [ ] Write site copy and sitemap for headlabs.co 
 
 ### March
+- [ ] Create sales pipeline 
+- [ ] Create sales strategy when working with both potential and current clients.
