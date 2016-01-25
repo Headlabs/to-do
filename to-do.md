@@ -26,3 +26,8 @@ Here's a list of stuff we have to do.
 ### March
 - [ ] Create sales pipeline 
 - [ ] Create sales strategy when working with both potential and current clients.
+
+
+### April
+- [ ] Contact media outlets who would be interested in our products and services
+- [ ] Launch the business
