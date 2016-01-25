@@ -11,7 +11,7 @@ Here's a list of stuff we have to do.
 - [X] 24th - Write the marketing-strategy.
 - [X] 25th - Write the products-and-services.
 - [X] 26th - Write the staff-and-management. 
-- [ ] 26th - Josh: Write out your bio listing experience, accomplishments, short description of yourself, skills, etc.
+- [X] 26th - Josh: Write out your bio listing experience, accomplishments, short description of yourself, skills, etc.
 - [X] 27th - Write the strategy-for-the-business.
 - [ ] 28th - ONGOING - Work on the [Startup Capital To Do](startup-capital-to-do.md)
 
