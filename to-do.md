@@ -4,15 +4,15 @@ Here's a list of stuff we have to do.
 
 ### January
 - [ ] 19th - Landing page design for VR QA site.
-- [ ] 20th - Write the business-concept.
-- [ ] 21st - Write the company-summary.
-- [ ] 22nd - Write the executive-summary.
-- [ ] 23rd - Write the financing-needs.
-- [ ] 24th - Write the marketing-strategy.
-- [ ] 25th - Write the products-and-services.
-- [ ] 26th - Write the staff-and-management. 
+- [X] 20th - Write the business-concept.
+- [X] 21st - Write the company-summary.
+- [X] 22nd - Write the executive-summary.
+- [X] 23rd - Write the financing-needs.
+- [X] 24th - Write the marketing-strategy.
+- [X] 25th - Write the products-and-services.
+- [X] 26th - Write the staff-and-management. 
 - [ ] 26th - Josh: Write out your bio listing experience, accomplishments, short description of yourself, skills, etc.
-- [ ] 27th - Write the strategy-for-the-business.
+- [X] 27th - Write the strategy-for-the-business.
 - [ ] 28th - ONGOING - Work on the [Startup Capital To Do](startup-capital-to-do.md)
 
 ### February
