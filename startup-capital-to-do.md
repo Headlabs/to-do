@@ -21,7 +21,7 @@ The things in __bold__ are the things that we need to account for in our "Startu
 - [ ] Put together a __Personnel Budget__.  Forecast the number of employees and management team members you will need for the first three years. Break this out by department so you make sure you don't overlook any functional areas.
 
 ### Step 5
-- [ ] Forecast __facilities and equipment costs__. Determine how much space your venture needs to conduct operations. This can be office space, retail space, and production and warehouse space depending on the type of company. Ask real estate professionals for information about the rate per square foot for the type of space you will need. Remember to include office equipment leases in your equipment forecast, for items such as computer workstations and telephone systems.
+- [ ] Forecast __facilities and equipment expenses__. Determine how much space your venture needs to conduct operations. This can be office space, retail space, and production and warehouse space depending on the type of company. Ask real estate professionals for information about the rate per square foot for the type of space you will need. Remember to include office equipment leases in your equipment forecast, for items such as computer workstations and telephone systems.
 
 ### Step 6
 - [ ] Forecast __general and administrative expenses__. These costs include items such as office supplies, travel, insurance, legal and accounting fees.
