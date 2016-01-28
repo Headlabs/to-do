@@ -22,6 +22,7 @@ Here's a list of stuff we have to do.
 - [ ] Launch the VR QA landing page.
 - [ ] Create/Launch linked list subscription service alongside launch of landing page. 
 - [ ] Write site copy and sitemap for headlabs.co 
+- [ ] Create job board and launch it 
 
 ### March
 - [ ] Create sales pipeline 
